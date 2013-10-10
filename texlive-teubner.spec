@@ -1,11 +1,11 @@
-# revision 27651
+# revision 31794
 # category Package
 # catalog-ctan /macros/latex/contrib/teubner
-# catalog-date 2012-09-11 17:46:54 +0200
+# catalog-date 2013-09-29 11:24:32 +0200
 # catalog-license lppl
-# catalog-version 3.3a
+# catalog-version 3.4a
 Name:		texlive-teubner
-Version:	3.3a
+Version:	3.4a
 Release:	1
 Summary:	Philological typesetting of classical Greek
 Group:		Publishing
