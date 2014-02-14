@@ -1,12 +1,12 @@
-# revision 31794
+# revision 32527
 # category Package
 # catalog-ctan /macros/latex/contrib/teubner
-# catalog-date 2013-09-29 11:24:32 +0200
+# catalog-date 2013-12-31 15:44:59 +0100
 # catalog-license lppl
-# catalog-version 3.4a
+# catalog-version 4.2
 Name:		texlive-teubner
-Version:	3.4a
-Release:	5
+Version:	4.2
+Release:	1
 Summary:	Philological typesetting of classical Greek
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/teubner
@@ -38,7 +38,6 @@ quality.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/teubner/LGRaccents-glyphs.def
 %{_texmfdistdir}/tex/latex/teubner/teubner.sty
 %{_texmfdistdir}/tex/latex/teubner/teubnertx.sty
 %doc %{_texmfdistdir}/doc/latex/teubner/README
