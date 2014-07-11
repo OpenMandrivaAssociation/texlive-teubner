@@ -6,7 +6,7 @@
 # catalog-version 4.2
 Name:		texlive-teubner
 Version:	4.2
-Release:	2
+Release:	3
 Summary:	Philological typesetting of classical Greek
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/teubner
