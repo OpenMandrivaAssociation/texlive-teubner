@@ -1,6 +1,6 @@
 Name:		texlive-teubner
-Version:	64600
-Release:	2
+Version:	67334
+Release:	1
 Summary:	Philological typesetting of classical Greek
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/teubner
