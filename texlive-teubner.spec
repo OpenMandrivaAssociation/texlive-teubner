@@ -1,5 +1,5 @@
 Name:		texlive-teubner
-Version:	67334
+Version:	68074
 Release:	1
 Summary:	Philological typesetting of classical Greek
 Group:		Publishing
