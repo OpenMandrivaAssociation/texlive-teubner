@@ -3,7 +3,7 @@ Version:	68074
 Release:	1
 Summary:	Philological typesetting of classical Greek
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/teubner
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/teubner
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/teubner.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/teubner.doc.r%{version}.tar.xz
